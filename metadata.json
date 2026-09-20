@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack",
+  "description": "Household Carbon & Energy Footprint Calculator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
